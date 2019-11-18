@@ -1,0 +1,359 @@
+m255
+K3
+13
+cModel Technology
+dC:\ProgramData\App-V\42A7790A-E852-4FD0-A846-61FBCBD0279A\F6001447-9727-4074-B939-1C3D5BBC9B4C\Root\Quartus_II
+Ec1
+Z0 w1572892492
+Z1 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dD:\School\CEG\Lab4\Ch6
+Z6 8D:/School/CEG/Lab4/Ch6_Codes/c1.vhd
+Z7 FD:/School/CEG/Lab4/Ch6_Codes/c1.vhd
+l0
+L5
+VJBLooe7VO@[6Ao[1<fjfY2
+Z8 OV;C;10.1d;51
+32
+Z9 !s108 1572900955.851000
+Z10 !s90 -reportprogress|300|-work|top|-2002|-explicit|D:/School/CEG/Lab4/Ch6_Codes/c1.vhd|
+Z11 !s107 D:/School/CEG/Lab4/Ch6_Codes/c1.vhd|
+Z12 o-work top -2002 -explicit -O0
+Z13 tExplicit 1
+!s100 XU>6obGUO6cWI`HODb6k=0
+!i10b 1
+Ac1_estr
+R1
+R2
+R3
+R4
+DEx4 work 2 c1 0 22 JBLooe7VO@[6Ao[1<fjfY2
+l13
+L12
+V6h=IU>1<fdne3BXL;]Dbf3
+R8
+32
+R9
+R10
+R11
+R12
+R13
+!s100 dJAdZ?nC83FaFzC0PI=]>3
+!i10b 1
+Ec2
+Z14 w1537659952
+R3
+R4
+R5
+Z15 8D:/School/CEG/Lab4/Ch6_Codes/c2.vhd
+Z16 FD:/School/CEG/Lab4/Ch6_Codes/c2.vhd
+l0
+L4
+VzKK`LYon0jMoF8S=j^oSm3
+R8
+32
+Z17 !s108 1572900956.225000
+Z18 !s90 -reportprogress|300|-work|top|-2002|-explicit|D:/School/CEG/Lab4/Ch6_Codes/c2.vhd|
+Z19 !s107 D:/School/CEG/Lab4/Ch6_Codes/c2.vhd|
+R12
+R13
+!s100 A`f=L7_mMn7X^E3GA@<FN3
+!i10b 1
+Ac2_estr
+R3
+R4
+DEx4 work 2 c2 0 22 zKK`LYon0jMoF8S=j^oSm3
+l12
+L11
+VjfHM8<a_`h]aE59SO[4RL2
+R8
+32
+R17
+R18
+R19
+R12
+R13
+!s100 S1PV_GAl0Q=ZRe7mXfT4N3
+!i10b 1
+Ec3
+Z20 w1537659976
+R3
+R4
+R5
+Z21 8D:/School/CEG/Lab4/Ch6_Codes/c3.vhd
+Z22 FD:/School/CEG/Lab4/Ch6_Codes/c3.vhd
+l0
+L4
+V_^dK:bV[V>kZCzNE0[:<61
+R8
+32
+Z23 !s108 1572900956.615000
+Z24 !s90 -reportprogress|300|-work|top|-2002|-explicit|D:/School/CEG/Lab4/Ch6_Codes/c3.vhd|
+Z25 !s107 D:/School/CEG/Lab4/Ch6_Codes/c3.vhd|
+R12
+R13
+!s100 bJldgTUEz^?8b;5N<^@?:1
+!i10b 1
+Ac3_estr
+R3
+R4
+DEx4 work 2 c3 0 22 _^dK:bV[V>kZCzNE0[:<61
+l12
+L11
+Vd8Zg2zZ]F@>oZ`AP0FBW`0
+R8
+32
+R23
+R24
+R25
+R12
+R13
+!s100 icU`RcJoGB0FU]Z[;AZ;=0
+!i10b 1
+Ec4
+Z26 w1537659808
+R3
+R4
+R5
+Z27 8D:/School/CEG/Lab4/Ch6_Codes/c4.vhd
+Z28 FD:/School/CEG/Lab4/Ch6_Codes/c4.vhd
+l0
+L4
+VeF:j^<:^aKC0GTLnYY@=Z3
+R8
+32
+Z29 !s108 1572900956.990000
+Z30 !s90 -reportprogress|300|-work|top|-2002|-explicit|D:/School/CEG/Lab4/Ch6_Codes/c4.vhd|
+Z31 !s107 D:/School/CEG/Lab4/Ch6_Codes/c4.vhd|
+R12
+R13
+!s100 3>dD`gAoDgI9OBGjGUjI<2
+!i10b 1
+Ac4_stru
+R3
+R4
+DEx4 work 2 c4 0 22 eF:j^<:^aKC0GTLnYY@=Z3
+l11
+L10
+Vc0i7KJDHLaG5QM=Uni^jR0
+R8
+32
+R29
+R30
+R31
+R12
+R13
+!s100 e@K;HMDlz;kaj7Lnz:]_T1
+!i10b 1
+Ed_4ff
+Z32 w1539532714
+R3
+R4
+R5
+Z33 8D:/School/CEG/Lab4/Ch6_Codes/reg4bits.vhd
+Z34 FD:/School/CEG/Lab4/Ch6_Codes/reg4bits.vhd
+l0
+L4
+VUFbZ?`fC^Yk?SR<[HXgE^0
+R8
+32
+Z35 !s108 1572900958.191000
+Z36 !s90 -reportprogress|300|-work|top|-2002|-explicit|D:/School/CEG/Lab4/Ch6_Codes/reg4bits.vhd|
+Z37 !s107 D:/School/CEG/Lab4/Ch6_Codes/reg4bits.vhd|
+R12
+R13
+!s100 i7B1o13cmVgfKdAMfc5R00
+!i10b 1
+Abehv
+R3
+R4
+DEx4 work 5 d_4ff 0 22 UFbZ?`fC^Yk?SR<[HXgE^0
+l15
+L14
+V@n[cDZc5A4UCFPm2L3K>I2
+R8
+32
+R35
+R36
+R37
+R12
+R13
+!s100 ]XRQLgRHYPd;INghd^F2M2
+!i10b 1
+Ed_8ff
+Z38 w1539532718
+R3
+R4
+R5
+Z39 8D:/School/CEG/Lab4/Ch6_Codes/reg8bits.vhd
+Z40 FD:/School/CEG/Lab4/Ch6_Codes/reg8bits.vhd
+l0
+L4
+VN72WiEdRcc`43SD7O3IWn3
+R8
+32
+Z41 !s108 1572900958.596000
+Z42 !s90 -reportprogress|300|-work|top|-2002|-explicit|D:/School/CEG/Lab4/Ch6_Codes/reg8bits.vhd|
+Z43 !s107 D:/School/CEG/Lab4/Ch6_Codes/reg8bits.vhd|
+R12
+R13
+!s100 lQj6Glo>SK4Z?cV[Q38Z42
+!i10b 1
+Abehv
+R3
+R4
+DEx4 work 5 d_8ff 0 22 N72WiEdRcc`43SD7O3IWn3
+l15
+L14
+VbmGQleJ<lBljE4@8ngajF3
+R8
+32
+R41
+R42
+R43
+R12
+R13
+!s100 gnT:n2Km7ZGokzYSiWc9V0
+!i10b 1
+Edecod7seg
+Z44 w1539787946
+R3
+R4
+R5
+Z45 8D:/School/CEG/Lab4/Ch6_Codes/Decod7seg.vhd
+Z46 FD:/School/CEG/Lab4/Ch6_Codes/Decod7seg.vhd
+l0
+L4
+V4HaV3DZ7IoXQF<4:3i1hZ1
+R8
+32
+Z47 !s108 1572900957.395000
+Z48 !s90 -reportprogress|300|-work|top|-2002|-explicit|D:/School/CEG/Lab4/Ch6_Codes/Decod7seg.vhd|
+Z49 !s107 D:/School/CEG/Lab4/Ch6_Codes/Decod7seg.vhd|
+R12
+R13
+!s100 ERe;azT3dL0=IQ8364OC52
+!i10b 1
+Adecod7seg_stru
+R3
+R4
+DEx4 work 9 decod7seg 0 22 4HaV3DZ7IoXQF<4:3i1hZ1
+l11
+L10
+V[j6JBFD8of6SMZZX<S0XD3
+R8
+32
+R47
+R48
+R49
+R12
+R13
+!s100 UFfjJI`^ai4nUhB1;W8:;2
+!i10b 1
+Emux4x1
+Z50 w1537659882
+R3
+R4
+R5
+Z51 8D:/School/CEG/Lab4/Ch6_Codes/mux4x1.vhd
+Z52 FD:/School/CEG/Lab4/Ch6_Codes/mux4x1.vhd
+l0
+L4
+V2__W4R8]6iL_eQT3_oO3Y1
+R8
+32
+Z53 !s108 1572900957.801000
+Z54 !s90 -reportprogress|300|-work|top|-2002|-explicit|D:/School/CEG/Lab4/Ch6_Codes/mux4x1.vhd|
+Z55 !s107 D:/School/CEG/Lab4/Ch6_Codes/mux4x1.vhd|
+R12
+R13
+!s100 T017@QOo=D^NC@?z]5OXD2
+!i10b 1
+Amux_stru
+R3
+R4
+DEx4 work 6 mux4x1 0 22 2__W4R8]6iL_eQT3_oO3Y1
+l12
+L11
+V0:HFV[k@1Rjd7>5cFUDhR3
+R8
+32
+R53
+R54
+R55
+R12
+R13
+!s100 0kUYjEU19_ZUh^G?7MmZi2
+!i10b 1
+Etop_calc
+Z56 w1572900930
+R3
+R4
+R5
+Z57 8D:/School/CEG/Lab4/Ch6_Codes/top_calc.vhd
+Z58 FD:/School/CEG/Lab4/Ch6_Codes/top_calc.vhd
+l0
+L4
+VfXb>aJ7P`D;zPQ^4==WaN2
+R8
+32
+Z59 !s108 1572900958.940000
+Z60 !s90 -reportprogress|300|-work|top|-2002|-explicit|D:/School/CEG/Lab4/Ch6_Codes/top_calc.vhd|
+Z61 !s107 D:/School/CEG/Lab4/Ch6_Codes/top_calc.vhd|
+R12
+R13
+!s100 B?In2Q[Hz0>9iHM[ePGhK0
+!i10b 1
+Atop_stru
+R3
+R4
+DEx4 work 8 top_calc 0 22 fXb>aJ7P`D;zPQ^4==WaN2
+l78
+L14
+Vn8D]gk41>f>jPZGVmgYhk1
+!s100 =@DVEb?93Abkh<KlPc3?;2
+R8
+32
+R59
+R60
+R61
+R12
+R13
+!i10b 1
+Etop_calc_tb
+Z62 w1572900942
+R3
+R4
+R5
+Z63 8D:/School/CEG/Lab4/Ch6_Codes/top_calc.vht
+Z64 FD:/School/CEG/Lab4/Ch6_Codes/top_calc.vht
+l0
+L30
+V9[iBBaT[mf@j55nVK4DRf1
+!s100 D@`W3BSJS@g83[bhmn3@N3
+R8
+32
+!i10b 1
+Z65 !s108 1572900959.330000
+Z66 !s90 -reportprogress|300|-work|top|-2002|-explicit|D:/School/CEG/Lab4/Ch6_Codes/top_calc.vht|
+Z67 !s107 D:/School/CEG/Lab4/Ch6_Codes/top_calc.vht|
+R12
+R13
+Atop_calc_arch
+R3
+R4
+Z68 DEx4 work 11 top_calc_tb 0 22 9[iBBaT[mf@j55nVK4DRf1
+l66
+L33
+Z69 VMTNCIT8?dzN8BlFeZ<:^^1
+Z70 !s100 U3J3T@L3cYHMS8I18f20<3
+R8
+32
+!i10b 1
+R65
+R66
+R67
+R12
+R13

@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_50'
+Slack : -6.415
+TNS   : -103.032
+
+Type  : Slow 1200mV 85C Model Setup 'FSMctrl:L0|EA.S7'
+Slack : -0.992
+TNS   : -1.929
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_50'
+Slack : -0.004
+TNS   : -0.004
+
+Type  : Slow 1200mV 85C Model Hold 'FSMctrl:L0|EA.S7'
+Slack : 0.103
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -54.400
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'FSMctrl:L0|EA.S7'
+Slack : 0.452
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -5.749
+TNS   : -91.732
+
+Type  : Slow 1200mV 0C Model Setup 'FSMctrl:L0|EA.S7'
+Slack : -0.795
+TNS   : -1.545
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.072
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'FSMctrl:L0|EA.S7'
+Slack : 0.098
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -54.400
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'FSMctrl:L0|EA.S7'
+Slack : 0.472
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -2.847
+TNS   : -39.287
+
+Type  : Fast 1200mV 0C Model Setup 'FSMctrl:L0|EA.S7'
+Slack : 0.069
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_50'
+Slack : -0.099
+TNS   : -0.565
+
+Type  : Fast 1200mV 0C Model Hold 'FSMctrl:L0|EA.S7'
+Slack : -0.075
+TNS   : -0.075
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -54.885
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'FSMctrl:L0|EA.S7'
+Slack : 0.349
+TNS   : 0.000
+
+------------------------------------------------------------

@@ -1,0 +1,83 @@
+D:/School/CEG/Lab4/Ch6_Codes/c4.vhd {1 {vcom -work top -2002 -explicit D:/School/CEG/Lab4/Ch6_Codes/c4.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity C4
+-- Compiling architecture c4_stru of C4
+
+} {} {}} D:/School/CEG/Lab4/Ch6_Codes/mux4x1.vhd {1 {vcom -work top -2002 -explicit D:/School/CEG/Lab4/Ch6_Codes/mux4x1.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux4x1
+-- Compiling architecture mux_stru of mux4x1
+
+} {} {}} D:/School/CEG/Lab4/Ch6_Codes/c1.vhd {1 {vcom -work top -2002 -explicit D:/School/CEG/Lab4/Ch6_Codes/c1.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity C1
+-- Compiling architecture c1_estr of C1
+
+} {} {}} D:/School/CEG/Lab4/Ch6_Codes/reg4bits.vhd {1 {vcom -work top -2002 -explicit D:/School/CEG/Lab4/Ch6_Codes/reg4bits.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity D_4FF
+-- Compiling architecture behv of D_4FF
+
+} {} {}} D:/School/CEG/Lab4/Ch6_Codes/reg8bits.vhd {1 {vcom -work top -2002 -explicit D:/School/CEG/Lab4/Ch6_Codes/reg8bits.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity D_8FF
+-- Compiling architecture behv of D_8FF
+
+} {} {}} D:/School/CEG/Lab4/Ch6_Codes/c2.vhd {1 {vcom -work top -2002 -explicit D:/School/CEG/Lab4/Ch6_Codes/c2.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity C2
+-- Compiling architecture c2_estr of C2
+
+} {} {}} D:/School/CEG/Lab4/Ch6_Codes/Decod7seg.vhd {1 {vcom -work top -2002 -explicit D:/School/CEG/Lab4/Ch6_Codes/Decod7seg.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Decod7seg
+-- Compiling architecture Decod7seg_stru of Decod7seg
+
+} {} {}} D:/School/CEG/Lab4/Ch6_Codes/top_calc.vhd {1 {vcom -work top -2002 -explicit D:/School/CEG/Lab4/Ch6_Codes/top_calc.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity top_calc
+-- Compiling architecture top_stru of top_calc
+
+} {} {}} D:/School/CEG/Lab4/Ch6_Codes/top_calc.vht {1 {vcom -work top -2002 -explicit D:/School/CEG/Lab4/Ch6_Codes/top_calc.vht
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity top_calc_tb
+-- Compiling architecture top_calc_arch of top_calc_tb
+
+} {} {}} D:/School/CEG/Lab4/Ch6_Codes/c3.vhd {1 {vcom -work top -2002 -explicit D:/School/CEG/Lab4/Ch6_Codes/c3.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity C3
+-- Compiling architecture c3_estr of C3
+
+} {} {}}

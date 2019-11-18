@@ -1,0 +1,9 @@
+
+State Machine - |top|FSM:L1|CS
+Name CS.D4 CS.D3 CS.D2 CS.D1 CS.S1 CS.S0 
+CS.S0 0 0 0 0 0 0 
+CS.S1 0 0 0 0 1 1 
+CS.D1 0 0 0 1 0 1 
+CS.D2 0 0 1 0 0 1 
+CS.D3 0 1 0 0 0 1 
+CS.D4 1 0 0 0 0 1 

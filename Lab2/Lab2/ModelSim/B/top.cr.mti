@@ -1,0 +1,33 @@
+{//uottawa.o.univ/acadhomes/b/bm/bmcdo020/bmcdo020/Desktop/CEG3155/Lab 2/ModelSim/B/C4.vhd} {1 {vcom -work work -2002 -explicit {\\uottawa.o.univ\acadhomes\b\bm\bmcdo020\bmcdo020\Desktop\CEG3155\Lab 2\ModelSim\B\C4.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity C4
+-- Compiling architecture c4_estr of C4
+
+} {} {}} {//uottawa.o.univ/acadhomes/b/bm/bmcdo020/bmcdo020/Desktop/CEG3155/Lab 2/ModelSim/B/C1.vhd} {1 {vcom -work work -2002 -explicit {\\uottawa.o.univ\acadhomes\b\bm\bmcdo020\bmcdo020\Desktop\CEG3155\Lab 2\ModelSim\B\C1.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity C1
+-- Compiling architecture c1_estr of C1
+
+} {} {}} {//uottawa.o.univ/acadhomes/b/bm/bmcdo020/bmcdo020/Desktop/CEG3155/Lab 2/ModelSim/B/C2.vhd} {1 {vcom -work work -2002 -explicit {//uottawa.o.univ/acadhomes/b/bm/bmcdo020/bmcdo020/Desktop/CEG3155/Lab 2/ModelSim/B/C2.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity C2
+-- Compiling architecture c2_estr of C2
+
+} {} {}} {//uottawa.o.univ/acadhomes/b/bm/bmcdo020/bmcdo020/Desktop/CEG3155/Lab 2/ModelSim/B/C3.vhd} {1 {vcom -work work -2002 -explicit {//uottawa.o.univ/acadhomes/b/bm/bmcdo020/bmcdo020/Desktop/CEG3155/Lab 2/ModelSim/B/C3.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity C3
+-- Compiling architecture c3_estr of C3
+
+} {} {}}

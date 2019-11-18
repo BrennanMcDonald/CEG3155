@@ -1,0 +1,180 @@
+m255
+K3
+13
+cModel Technology
+dC:\ProgramData\App-V\42A7790A-E852-4FD0-A846-61FBCBD0279A\F6001447-9727-4074-B939-1C3D5BBC9B4C\Root\Quartus_II
+Ec1
+Z0 w1568826462
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 d\\uottawa.o.univ\acadhomes\b\bm\bmcdo020\bmcdo020\Desktop\CEG3155\Lab 2\ModelSim\B
+Z4 8\\uottawa.o.univ\acadhomes\b\bm\bmcdo020\bmcdo020\Desktop\CEG3155\Lab 2\ModelSim\B\C1.vhd
+Z5 F\\uottawa.o.univ\acadhomes\b\bm\bmcdo020\bmcdo020\Desktop\CEG3155\Lab 2\ModelSim\B\C1.vhd
+l0
+L4
+V=]nR^I^h]nNKX`[1_OfC?1
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1569869498.635000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|\\uottawa.o.univ\acadhomes\b\bm\bmcdo020\bmcdo020\Desktop\CEG3155\Lab 2\ModelSim\B\C1.vhd|
+Z9 !s107 \\uottawa.o.univ\acadhomes\b\bm\bmcdo020\bmcdo020\Desktop\CEG3155\Lab 2\ModelSim\B\C1.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 <W:TDYl1NDTeO3Q`@_K453
+!i10b 1
+Ac1_estr
+R1
+R2
+DEx4 work 2 c1 0 22 =]nR^I^h]nNKX`[1_OfC?1
+l12
+L11
+VM_J^_EID0C7229[kePWRH0
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 :j42ALa]fag3NzJT2`cVF0
+!i10b 1
+Ec2
+Z12 w1569848108
+R1
+R2
+R3
+Z13 8//uottawa.o.univ/acadhomes/b/bm/bmcdo020/bmcdo020/Desktop/CEG3155/Lab 2/ModelSim/B/C2.vhd
+Z14 F//uottawa.o.univ/acadhomes/b/bm/bmcdo020/bmcdo020/Desktop/CEG3155/Lab 2/ModelSim/B/C2.vhd
+l0
+L4
+V944=?c1QXYV=kc5^nEZlJ3
+R6
+32
+Z15 !s108 1569869499.197000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/b/bm/bmcdo020/bmcdo020/Desktop/CEG3155/Lab 2/ModelSim/B/C2.vhd|
+Z17 !s107 //uottawa.o.univ/acadhomes/b/bm/bmcdo020/bmcdo020/Desktop/CEG3155/Lab 2/ModelSim/B/C2.vhd|
+R10
+R11
+!s100 DM74=7b@W0a5XdO27X5co1
+!i10b 1
+Ac2_estr
+R1
+R2
+DEx4 work 2 c2 0 22 944=?c1QXYV=kc5^nEZlJ3
+l12
+L11
+VcXUkVQ:CO^hk23zcjH>Ua2
+R6
+32
+R15
+R16
+R17
+R10
+R11
+!s100 7XSzLFVA;Y>XeiC<5N^AQ2
+!i10b 1
+Ec3
+Z18 w1569869341
+R1
+R2
+R3
+Z19 8//uottawa.o.univ/acadhomes/b/bm/bmcdo020/bmcdo020/Desktop/CEG3155/Lab 2/ModelSim/B/C3.vhd
+Z20 F//uottawa.o.univ/acadhomes/b/bm/bmcdo020/bmcdo020/Desktop/CEG3155/Lab 2/ModelSim/B/C3.vhd
+l0
+L4
+VL3T@feQS9i^=Y9IG<EU@33
+!s100 EE8k1Bf@1URlG[>46@;5U1
+R6
+32
+!i10b 1
+Z21 !s108 1569869500.879000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/b/bm/bmcdo020/bmcdo020/Desktop/CEG3155/Lab 2/ModelSim/B/C3.vhd|
+Z23 !s107 //uottawa.o.univ/acadhomes/b/bm/bmcdo020/bmcdo020/Desktop/CEG3155/Lab 2/ModelSim/B/C3.vhd|
+R10
+R11
+Ac3_estr
+R1
+R2
+Z24 DEx4 work 2 c3 0 22 L3T@feQS9i^=Y9IG<EU@33
+l12
+L11
+Z25 VNfRiEIRW=BckZ;D5;8=Vl2
+Z26 !s100 QfIn^dJ:0C=LK6A<@XOcI3
+R6
+32
+!i10b 1
+R21
+R22
+R23
+R10
+R11
+Ec4
+Z27 w1568827794
+R1
+R2
+R3
+Z28 8\\uottawa.o.univ\acadhomes\b\bm\bmcdo020\bmcdo020\Desktop\CEG3155\Lab 2\ModelSim\B\C4.vhd
+Z29 F\\uottawa.o.univ\acadhomes\b\bm\bmcdo020\bmcdo020\Desktop\CEG3155\Lab 2\ModelSim\B\C4.vhd
+l0
+L4
+VFE:VXT:hMVhjR12TR0=ej2
+R6
+32
+Z30 !s108 1569869499.740000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|\\uottawa.o.univ\acadhomes\b\bm\bmcdo020\bmcdo020\Desktop\CEG3155\Lab 2\ModelSim\B\C4.vhd|
+Z32 !s107 \\uottawa.o.univ\acadhomes\b\bm\bmcdo020\bmcdo020\Desktop\CEG3155\Lab 2\ModelSim\B\C4.vhd|
+R10
+R11
+!s100 nh<k]0hQPgUdgE[f2ZDQ@0
+!i10b 1
+Ac4_estr
+R1
+R2
+DEx4 work 2 c4 0 22 FE:VXT:hMVhjR12TR0=ej2
+l12
+L11
+V@5o0L3c5HldQX9`a]bmC^1
+R6
+32
+R30
+R31
+R32
+R10
+R11
+!s100 GSB[lUfi;_QZ?TbAKH=MI2
+!i10b 1
+Etop
+Z33 w1569869496
+R1
+R2
+R3
+Z34 8\\uottawa.o.univ\acadhomes\b\bm\bmcdo020\bmcdo020\Desktop\CEG3155\Lab 2\ModelSim\B\top.vhd
+Z35 F\\uottawa.o.univ\acadhomes\b\bm\bmcdo020\bmcdo020\Desktop\CEG3155\Lab 2\ModelSim\B\top.vhd
+l0
+L4
+Vn7Vbne13a^cNjFdacA4iT2
+R6
+32
+Z36 !s108 1569869500.307000
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|\\uottawa.o.univ\acadhomes\b\bm\bmcdo020\bmcdo020\Desktop\CEG3155\Lab 2\ModelSim\B\top.vhd|
+Z38 !s107 \\uottawa.o.univ\acadhomes\b\bm\bmcdo020\bmcdo020\Desktop\CEG3155\Lab 2\ModelSim\B\top.vhd|
+R10
+R11
+!s100 J_JRN0]aZBBKo7LcFmc@00
+!i10b 1
+Atop_map
+R1
+R2
+DEx4 work 3 top 0 22 n7Vbne13a^cNjFdacA4iT2
+l42
+L11
+VZFb1>A:EWE2OABF2m3e;h1
+R6
+32
+R36
+R37
+R38
+R10
+R11
+!s100 M[9SU=41b5:MC0_P@Ia:40
+!i10b 1
